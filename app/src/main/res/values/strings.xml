@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Files</string>
+    <string name="folder_name">Folder name</string>
+    <string name="gokul">Gokul</string>
+    
+    <string name="grp1">Grp1</string>
+    <string name="grp2">Grp2</string>
+    <string name="grp3">Grp3</string>
+    <string name="grp4">Grp4</string>
+    <string name="grp5">Grp5</string>
+    <string name="grp_name">grp name</string>
+
+    <string-array name="gp1">
+        <item>item1</item>
+        <item>item2</item>
+    </string-array>
+
+    <string-array name="gp2">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+
+    <string-array name="gp3">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+    </string-array>
+
+    <string-array name="gp4">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+    </string-array>
+
+    <string-array name="gp5">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+</resources>
